@@ -1,1 +1,2 @@
 # Maximum-Perimeter-Triangle
+This code solves the Maximum Perimeter Triangle problem by finding the longest-side non-degenerate triangle from a set of stick lengths. It sorts the sticks in descending order and checks consecutive triplets to find the first valid triangle using the triangle inequality theorem. The algorithm returns the triplet with the longest maximum side when found, or -1 if no valid triangle can be formed.
